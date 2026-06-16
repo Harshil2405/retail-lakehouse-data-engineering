@@ -1,13 +1,24 @@
-# Learning Journal
-
 ## Day 1
 
-### Concepts Learned
+### What is Medallion Architecture?
 
-- Medallion Architecture
-- Lakehouse Architecture
-- Data Engineering Project Lifecycle
+Bronze Layer:
+Raw ingested data from source systems.
 
-### Questions
+Silver Layer:
+Cleaned, validated, and standardized data.
 
--
+Gold Layer:
+Business-ready tables used for analytics and reporting.
+
+
+### Why Parquet?
+
+Parquet is a column-based storage format.
+
+Benefits:
+
+- Smaller storage size
+- Faster query performance
+- Efficient for analytics workloads
+- Industry standard for data lakes
