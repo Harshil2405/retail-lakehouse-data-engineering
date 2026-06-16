@@ -1,0 +1,39 @@
+# Technical Design Document
+
+## Project Name
+
+Retail Lakehouse Data Engineering Pipeline
+
+## Architecture
+
+Data Source
+→ Raw Layer
+→ Bronze Layer
+→ Silver Layer
+→ Gold Layer
+→ Power BI Dashboard
+
+## Technologies
+
+- Python
+- Pandas
+- PySpark
+- SQL
+- Google Colab
+- Google Drive
+- Power BI
+- GitHub
+
+## Data Layers
+
+### Raw
+Original Kaggle dataset
+
+### Bronze
+Raw parquet format
+
+### Silver
+Cleaned and validated data
+
+### Gold
+Business-ready analytics tables

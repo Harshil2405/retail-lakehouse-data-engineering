@@ -1,0 +1,37 @@
+# Retail Lakehouse Project Tracker
+
+## Objective
+
+Build an end-to-end retail data engineering pipeline using PySpark, Medallion Architecture, and Power BI.
+
+## Timeline
+
+Start Date: June 16, 2026
+Target Completion: June 22, 2026
+
+## Progress
+
+### Day 1
+- [ ] Project folder setup
+- [ ] Documentation created
+- [ ] Dataset selected
+- [ ] Architecture designed
+- [ ] GitHub repository created
+
+### Day 2
+- [ ] Bronze layer
+
+### Day 3
+- [ ] Silver layer
+
+### Day 4
+- [ ] Gold layer
+
+### Day 5
+- [ ] Star schema
+
+### Day 6
+- [ ] Power BI dashboard
+
+### Day 7
+- [ ] GitHub completion

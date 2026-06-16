@@ -1,0 +1,13 @@
+# Learning Journal
+
+## Day 1
+
+### Concepts Learned
+
+- Medallion Architecture
+- Lakehouse Architecture
+- Data Engineering Project Lifecycle
+
+### Questions
+
+-
